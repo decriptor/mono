@@ -3,7 +3,7 @@ SUBDIRS =
 include ../../build/rules.make
 
 LIBRARY = System.Activities.dll
-LIB_REFS = System System.Core
+LIB_REFS = System System.Core System.ServiceModel.Internals
 LIB_MCS_FLAGS = /unsafe -d:MONO
 
 TEST_MCS_FLAGS = $(LIB_MCS_FLAGS)

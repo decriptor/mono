@@ -1,0 +1,10 @@
+../../../external/referencesource/System.Xaml.Hosting/System/Xaml/Hosting/Configuration/HandlerElement.cs
+../../../external/referencesource/System.Xaml.Hosting/System/Xaml/Hosting/Configuration/HandlerElementCollection.cs
+../../../external/referencesource/System.Xaml.Hosting/System/Xaml/Hosting/Configuration/XamlHostingConfiguration.cs
+../../../external/referencesource/System.Xaml.Hosting/System/Xaml/Hosting/Configuration/XamlHostingSection.cs
+../../../external/referencesource/System.Xaml.Hosting/System/Xaml/Hosting/Configuration/XamlHostingSectionGroup.cs
+../../../external/referencesource/System.Xaml.Hosting/System/Xaml/Hosting/HostingEnvironmentWrapper.cs
+../../../external/referencesource/System.Xaml.Hosting/System/Xaml/Hosting/IXamlBuildProviderExtension.cs
+../../../external/referencesource/System.Xaml.Hosting/System/Xaml/Hosting/IXamlBuildProviderExtensionFactory.cs
+../../../external/referencesource/System.Xaml.Hosting/System/Xaml/Hosting/XamlBuildProvider.cs
+../../../external/referencesource/System.Xaml.Hosting/System/Xaml/Hosting/XamlHttpHandlerFactory.cs

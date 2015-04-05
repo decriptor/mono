@@ -153,6 +153,7 @@ net_4_5_dirs := \
 	System.Web.Http \
 	System.Web.Http.SelfHost \
 	System.Web.Http.WebHost \
+	System.Xaml.Hosting \
 	System.Activities \
 	System.Activities.DurableInstancing \
 	System.Activities.Presentation
